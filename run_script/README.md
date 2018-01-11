@@ -1,11 +1,17 @@
 Convert 
 
 ```
-chmod +x larry.sh;./larry.sh para1 para2 ...
+chmod +x larry.sh;./larry.sh arg1 arg2 ...
 ```
 
-to
+To
  
 ```
-./run_srcipt larry.sh para1 para2 ...
+./run_srcipt larry.sh arg1 arg2 ...
+```
+
+In fact
+
+```
+sh larry.sh
 ```

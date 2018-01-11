@@ -13,5 +13,5 @@ then
         chmod -x $script_name
     fi
 else
-    echo "Usage: ./run_script script_name para1 para2 ..."
+    echo "Usage: ./run_script script_name arg1 arg2 ..."
 fi
